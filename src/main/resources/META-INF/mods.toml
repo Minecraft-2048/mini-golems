@@ -10,7 +10,7 @@ authors="${mod_authors}"
 description='''
 Des mini-golems tailles dans le bloc de ton choix, qui rangent tes coffres.
 
-Pose un bloc plein — sable, pierre, laine, cuivre, ce que tu veux — et coiffe-le d'une citrouille sculptee : un mini-golem de ce materiau apparait, avec la texture, la couleur et les sons du bloc.
+Pose un bloc plein — sable, pierre, laine, cuivre, ce que tu veux — et coiffe-le d'une Tete de mini golem : un mini-golem de ce materiau apparait, avec la texture, la couleur et les sons du bloc.
 
 Son travail : reperer un objet present dans plusieurs coffres voisins et le rassembler dans celui qui en contient deja le plus. Il va toujours du petit tas vers le grand, donc les piles finissent regroupees au lieu de faire des allers-retours.
 '''
