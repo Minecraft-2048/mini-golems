@@ -4,7 +4,7 @@ Pose n'importe quel bloc plein — sable, pierre, laine, cuivre — et coiffe-le
 golem**. Comme pour un golem de neige, la tête se pose en dernier, et les deux blocs sont consommés.
 Ce qui se lève prend la couleur et la texture du bloc utilisé.
 
-Publié sur Modrinth : https://modrinth.com/mod/mini-golems
+Pas encore publié sur Modrinth — la soumission attend une réponse de la modération sur la règle 6.2 (contenu généré par IA).
 
 ## Son travail : ranger les coffres
 
