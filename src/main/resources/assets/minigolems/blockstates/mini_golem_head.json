@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "minigolems:block/mini_golem_head" },
+    "facing=east":  { "model": "minigolems:block/mini_golem_head", "y": 90 },
+    "facing=south": { "model": "minigolems:block/mini_golem_head", "y": 180 },
+    "facing=west":  { "model": "minigolems:block/mini_golem_head", "y": 270 }
+  }
+}
